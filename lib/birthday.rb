@@ -11,6 +11,7 @@ def happy_birthday(birthday_kids)
   else
     nil
   end
+  end
 end
 
 
